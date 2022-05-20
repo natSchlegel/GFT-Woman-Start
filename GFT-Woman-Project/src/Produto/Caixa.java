@@ -10,10 +10,6 @@ public class Caixa {
         return produtos;
     }
 
-    public void setProdutos(List<Produto> produtos) {
-        this.produtos = produtos;
-    }
-
     public void calcularTotal(){
         for(int i = 0; i < produtos.size(); i++){
             System.out.println("Nome do Produto: " + getProdutos().get(i).nome +

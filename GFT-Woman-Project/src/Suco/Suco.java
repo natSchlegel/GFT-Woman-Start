@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Suco {
     Scanner sc = new Scanner(System.in);
-    boolean aux = true;
     int litros;
     double preco;
     char sabor;

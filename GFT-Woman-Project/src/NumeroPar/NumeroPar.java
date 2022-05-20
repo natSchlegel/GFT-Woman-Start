@@ -10,7 +10,6 @@ public class NumeroPar{
 
     public void numeroPar() {
 
-
         try {
             System.out.println("Insira um número:");
             numero = sc.nextInt();

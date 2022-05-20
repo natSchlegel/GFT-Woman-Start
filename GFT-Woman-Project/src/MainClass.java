@@ -3,8 +3,6 @@ import NumeroPar.NumeroPar;
 import Produto.*;
 import Suco.Suco;
 
-import java.sql.SQLOutput;
-
 public class MainClass {
     public static void main(String[] args) {
 
